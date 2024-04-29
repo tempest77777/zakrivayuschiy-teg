@@ -1,7 +1,6 @@
 :root .theme-dark {
   --bg-color: #000;
   --accent-color: #00cc14;
-  --border-color: #00CC14;
   --text-color: #00cc14;
   --main-font-width: 400;
   --text-stroke-color: #000;
@@ -18,7 +17,6 @@
 :root .theme-light {
   --bg-color: #fff;
   --accent-color: #000;
-  --border-color: #000;
   --text-color: #000;
   --main-font-width: 400;
   --text-stroke-color: #fff;
@@ -36,7 +34,6 @@
   :root {
     --bg-color: #fff;
     --accent-color: #000;
-    --border-color: #000;
     --text-color: #000;
     --text-stroke-color: #fff;
     --bg-image: repeating-linear-gradient(
@@ -58,7 +55,6 @@
       repeating-linear-gradient(to bottom, #d3d3d3 0 2px, transparent 2px 4px),
       linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a);
     --accent-color: #000;
-    --border-color: #000;
     --text-color: #000;
     --main-font-width: 400;
   }
@@ -68,7 +64,6 @@
   :root {
     --bg-color: #000;
     --accent-color: #00cc14;
-    --border-color: #00CC14;
     --text-color: #00cc14;
     --text-stroke-color: #000;
     --hover-color: #00cc14;
